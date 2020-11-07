@@ -138,3 +138,7 @@ dmypy.json
 cython_debug/
 
 /img
+
+pokedex.sqlite3
+
+/db
